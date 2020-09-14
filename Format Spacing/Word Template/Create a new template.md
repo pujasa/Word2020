@@ -1,5 +1,5 @@
 1. On the **File** menu, click **New** from Template.
-   
+
 2. Click a template that is similar to the one you want to create, and then click **Create**.
    
   **Notes:** If you can't find a template, you can search for it based on keywords in the Search All Templates box.
